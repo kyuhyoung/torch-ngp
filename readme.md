@@ -8,6 +8,7 @@ This repository contains:
 * Some experimental features in the NeRF framework (e.g., text-guided NeRF editig similar to [CLIP-NeRF](https://arxiv.org/abs/2112.05139)).
 * A GUI for training/visualizing NeRF!
 
+
 ### [Gallery](assets/gallery.md) | [Update Logs](assets/update_logs.md)
 
 Instant-ngp interactive training/rendering on lego:
